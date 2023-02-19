@@ -230,7 +230,7 @@ input {
 }
 
 .overlay {
-  background-image: url('/Users/ZDF/Desktop/Blog/img/image1.jpg');
+  background-image: url('/images/image1.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0 0;
